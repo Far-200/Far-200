@@ -9,17 +9,17 @@
 
 ---
 
-## 🎮 Player Bio
+# 🎮 Player Bio
 
 - 🎓 **Class:** CSE Student at **REVA University, Bangalore**
-- 💻 **Main Quest:** Building with **React, TypeScript, Python, and FastAPI**
-- 🧠 **Skill Tree:** AI projects, Backend systems, and Practical software architecture
-- ⚔️ **Current Grind:** DSA consistency, Full-stack depth, and Placement readiness
-- 🎯 **Mission:** To become an internship-ready, "cracked" developer
+- 💻 **Main Quest:** Building with **React, TypeScript, Python, FastAPI**
+- 🧠 **Skill Tree:** AI systems, backend engineering, full-stack apps
+- ⚔️ **Current Grind:** DSA consistency, scalable projects, placement prep
+- 🎯 **Mission:** Become an internship-ready developer with strong project depth
 
 ---
 
-## 🛠️ Weapons of Choice (Tech Stack)
+# 🛠️ Weapons of Choice
 
 <div align="center">
 
@@ -31,55 +31,126 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=34D399)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
 ---
 
-## 🚀 Active Quest Log
+# 🚀 Featured Builds
 
-- 🧩 **LeetCode / DSA:** Maintaining daily consistency and pattern recognition.
-- 🌐 **Full-Stack:** Scaling projects with better state management and backend architecture.
-- 🤖 **AI Experiments:** Integrating LLMs and automation into web builds.
-- 📈 **Career:** Enhancing GitHub portfolio and resume for upcoming placements.
+## 🛡️ LLM-LeakGuard (Enterprise AI Security)
 
----
+AI-powered **Data Leak Prevention system for LLM applications**.
 
-## 🧪 Featured Builds
+Features:
 
-### 🚀 [VoygerSim](https://github.com/Far-200)
-Deep-space telemetry simulation featuring Forward Error Correction (FEC) & BER visualization.
+- Prompt injection detection
+- Sensitive data leak detection
+- Risk scoring engine
+- Threat logging dashboard
+- API monitoring and anomaly detection
 
-### ⏳ [FocusForge](https://github.com/Far-200)
-A minimalist Pomodoro timer and task manager designed for deep work.
+Tech:
 
-### ☕ [Java Problems Solved](https://github.com/Far-200)
-A dedicated vault of solved problems focused on Java fundamentals and logic.
+`FastAPI` `React` `TypeScript` `LLM Security` `Cybersecurity`
 
 ---
 
-## 📊 Battle Stats
+## 🔐 DLP Sentinel
+
+A **data leak monitoring system** designed to identify sensitive information exposure inside enterprise environments.
+
+Features:
+
+- Pattern-based secret detection
+- Token & credential monitoring
+- Alert and event logging
+- Real-time monitoring architecture
+
+Tech:
+
+`Python` `Security Detection` `Backend Systems`
+
+---
+
+## 📊 Blinkit Data Dashboard
+
+Interactive **data visualization dashboard** analyzing Blinkit product and sales data.
+
+Features:
+
+- Product category analysis
+- Sales trends and performance insights
+- Interactive charts and filtering
+- Data-driven visualization
+
+Tech:
+
+`Python` `Data Analysis` `Dashboard Visualization`
+
+---
+
+## 🚀 VoygerSim
+
+Deep-space telemetry simulation inspired by **Voyager missions**.
+
+Features:
+
+- Signal transmission simulation
+- Forward Error Correction (FEC)
+- Bit Error Rate (BER) visualization
+- Telemetry system modeling
+
+Tech:
+
+`JavaScript` `Simulation` `Signal Processing Concepts`
+
+---
+
+# 📊 Battle Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Far-200&show_icons=true&theme=midnight-purple&hide_border=true" />
+
 <img height="165" src="https://streak-stats.demolab.com?user=Far-200&theme=midnight-purple&hide_border=true" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=compact&theme=midnight-purple&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌐 Connect
+# 🧭 Current Quest Log
+
+- 🧩 **LeetCode / DSA** consistency
+- 🌐 Building stronger **full-stack systems**
+- 🤖 Exploring **AI-powered applications**
+- 📈 Preparing for **internships and placements**
+
+---
+
+# 🌐 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhaan-khan-dev)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Far-200)
+
 [![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaankhanff@gmail.com)
 
 </div>
 
 ---
 
-> "I debug code with hope, snacks, and occasional emotional damage."
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Far-200&color=blueviolet)
+
+</div>
+
+---
+
+> *"I debug code with hope, snacks, and occasional emotional damage."*
