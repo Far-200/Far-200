@@ -1,75 +1,85 @@
-# 👋 Hey, I'm Farhaan Khan
-
 <div align="center">
 
-### CSE student • Builder • Gamer • Problem Solver
+# ⚔️ Farhaan Khan
+### CSE Student | Full-Stack Builder | AI Explorer | Gamer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+student+at+REVA+University;Building+projects+with+React%2C+Python+and+AI;Learning+one+bug+at+a+time;Part-time+gamer%2C+full-time+debugger" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=BB9AF7&center=true&vCenter=true&width=800&lines=Building+cool+things+one+repo+at+a+time;React+%2B+Python+%2B+AI+%2B+Problem+Solving;Grinding+DSA+like+it's+a+boss+fight;Respawn.+Refactor.+Repeat." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🎮 Player Bio
 
-- 🎓 Full-time CSE student at **REVA University, Bangalore**
-- 💻 Interested in **web development, AI, backend systems, and problem solving**
-- 🚀 Growing into a stronger **developer, builder, and placement-ready engineer**
-- 🎮 Part-time gamer, part-time coder, full-time debugger
-- 🌱 Currently learning **React, TypeScript, backend engineering, and DSA**
+- 🎓 **Class:** CSE Student at **REVA University, Bangalore**
+- 💻 **Main Quest:** Building with **React, TypeScript, Python, and FastAPI**
+- 🧠 **Skill Tree:** AI projects, Backend systems, and Practical software architecture
+- ⚔️ **Current Grind:** DSA consistency, Full-stack depth, and Placement readiness
+- 🎯 **Mission:** To become an internship-ready, "cracked" developer
 
 ---
 
-## ⚒️ Tech Stack
+## 🛠️ Weapons of Choice (Tech Stack)
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFA518)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22D3EE)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=34D399)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Active Quest Log
+
+- 🧩 **LeetCode / DSA:** Maintaining daily consistency and pattern recognition.
+- 🌐 **Full-Stack:** Scaling projects with better state management and backend architecture.
+- 🤖 **AI Experiments:** Integrating LLMs and automation into web builds.
+- 📈 **Career:** Enhancing GitHub portfolio and resume for upcoming placements.
+
+---
+
+## 🧪 Featured Builds
 
 ### 🚀 [VoygerSim](https://github.com/Far-200)
-Deep-space telemetry simulation with FEC & BER visualization.
+Deep-space telemetry simulation featuring Forward Error Correction (FEC) & BER visualization.
 
 ### ⏳ [FocusForge](https://github.com/Far-200)
-Minimal Pomodoro timer and task manager built with React and Tailwind CSS.
+A minimalist Pomodoro timer and task manager designed for deep work.
 
 ### ☕ [Java Problems Solved](https://github.com/Far-200)
-Repository focused on Java fundamentals and problem-solving.
+A dedicated vault of solved problems focused on Java fundamentals and logic.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Battle Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Far-200&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Far-200&show_icons=true&theme=midnight-purple&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=Far-200&theme=midnight-purple&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=compact&theme=midnight-purple&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhaan-khan-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Far-200)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaabkhanff@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaankhanff@gmail.com)
 
 </div>
+
+---
+
+> "I debug code with hope, snacks, and occasional emotional damage."
