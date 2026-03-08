@@ -1,103 +1,203 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BB9AF7&height=200&section=header&text=Farhaan%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:7c3aed,70:a855f7,100:c084fc&text=Farhaan%20Khan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Builder%20•%20AI%20Explorer%20•%20CSE%20Student%20•%20Gamer&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
 
-### CSE Student • Full-Stack Builder • AI Explorer • Gamer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=Building+cool+things+one+repo+at+a+time;React+%2B+Python+%2B+FastAPI+%2B+AI;Grinding+DSA+like+it%27s+a+boss+fight;Learning+by+building%2C+breaking%2C+and+shipping" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=BB9AF7&center=true&vCenter=true&width=850&lines=Building+cool+things+one+repo+at+a+time;React+%2B+Python+%2B+AI+%2B+Problem+Solving;Grinding+DSA+like+it's+a+boss+fight;Respawn.+Refactor.+Repeat." />
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-a855f7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-AI%20%26%20Backend-8b5cf6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Grinding-DSA%20Daily-7c3aed?style=for-the-badge" />
 
 </div>
 
 ---
-
-<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science student at **REVA University, Bangalore**
+- **Farhaan Khan**
+- **CSE Student** at **REVA University, Bangalore**
+- Focused on **Full-Stack Development, AI Systems, and practical software building**
+- Working toward becoming an **internship-ready developer with real engineering depth**
 
-I enjoy building real software projects and experimenting with **AI-driven systems, backend architecture, and full-stack apps**.
-
-Currently focused on:
-
-* 🧩 **DSA & LeetCode**
-* 🌐 **Full-stack engineering**
-* 🤖 **AI powered applications**
-* 📈 **Internship & placement preparation**
+I enjoy building practical systems across full-stack applications, AI-driven tools, backend architectures, dashboards, and developer utilities.
 
 ---
 
-# 🛠 Tech Stack
+## ⚔️ Current Quest Log
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Building
+
+- Full-stack applications
+- Better UI / UX polish
+- Backend architecture experiments
+- AI-powered ideas
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Grinding
+
+- DSA & LeetCode consistency
+- Stronger project depth
+- Internship preparation
+- Problem-solving patterns
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=FACC15)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge\&logo=openjdk\&logoColor=F97316)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=FACC15)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge\&logo=typescript\&logoColor=60A5FA)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react\&logoColor=22D3EE)
-![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge\&logo=tailwind-css\&logoColor=38BDF8)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge\&logo=fastapi\&logoColor=34D399)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=F97316)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22D3EE)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=34D399)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<a href="https://github.com/Far-200/LLM-LeakGuard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Far-200&repo=LLM-LeakGuard&theme=midnight-purple"/>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Far-200/DLP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Far-200&repo=DLP&theme=midnight-purple"/>
-</a>
+### 🛡️ [LLM LeakGuard Enterprise](https://github.com/Spyroedwin/llm-leakguard-enterprise)
 
-<a href="https://github.com/Far-200/Blinkit-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Far-200&repo=Blinkit-Dashboard&theme=midnight-purple"/>
-</a>
+AI security system focused on **LLM data leak prevention** and **prompt-injection awareness**.
 
-<a href="https://github.com/Far-200/VoygerSim">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Far-200&repo=VoygerSim&theme=midnight-purple"/>
-</a>
+`FastAPI` `React` `TypeScript` `Cybersecurity`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [DLP](https://github.com/Far-200/DLP)
+
+Data leak detection system designed to identify **sensitive information exposure**.
+
+`Python` `Security` `Backend`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Blinkit Clone](https://github.com/Far-200/blinkit-clone)
+
+Responsive Blinkit-inspired UI with **dashboard-style layouts** and clean front-end structure.
+
+`React` `JavaScript` `CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [VoygerSim](https://github.com/Far-200/VoygerSim)
+
+Deep-space telemetry simulation inspired by **Voyager missions**.
+
+`JavaScript` `Simulation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 [DevTool](https://github.com/Far-200/DevTool)
+
+Lightweight developer utility tool built to simplify small workflows.
+
+`React` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ More Coming Soon
+
+More builds are on the way as I keep sharpening my stack and project depth.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+## 📌 Developer Snapshot
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Far-200&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img src="https://img.shields.io/badge/Code-React%20%7C%20Python%20%7C%20FastAPI-111827?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Vibe-Professional%20Chaos-a855f7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mode-Building%20%26%20Learning-7c3aed?style=for-the-badge" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=Far-200&theme=midnight-purple&hide_border=true"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=compact&theme=midnight-purple&hide_border=true"/>
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Mindset
+
+- Learn by building
+- Break things, then fix them properly
+- Prefer practical projects over empty flex
+- Improve one repo at a time
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Right Now
+
+- Sharpening DSA consistency
+- Building better full-stack workflows
+- Exploring AI + security ideas
+- Growing a stronger GitHub portfolio
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/Far-200/Far-200/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Far-200&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/farhaan-khan-dev)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/Far-200)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge\&logo=gmail)](mailto:farhaankhanff@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhaan-khan-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Far-200)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Farhaan_2004/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaankhanff@gmail.com)
 
 </div>
 
@@ -105,10 +205,14 @@ Currently focused on:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Far-200\&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Far-200&color=a855f7&style=flat-square)
 
 </div>
 
 ---
 
-> “I debug code with hope, snacks, and occasional emotional damage.”
+<div align="center">
+
+_I debug code with hope, snacks, and occasional emotional damage._
+
+</div>
