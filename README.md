@@ -74,7 +74,7 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -131,9 +131,11 @@ Lightweight developer utility tool built to simplify small workflows.
 </td>
 <td width="50%" valign="top">
 
-### ⚔️ More Coming Soon
+### 🤖 [Nova AI](https://github.com/Far-200/Nova-AI)
 
-More builds are on the way as I keep sharpening my stack and project depth.
+An evolving AI project currently under active development, focused on building a smarter, more capable assistant experience through iterative improvements.
+
+`AI` `Python` `React` `In Progress`
 
 </td>
 </tr>
