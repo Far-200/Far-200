@@ -88,6 +88,28 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 ---
 
+---
+
+# 📈 Learning Timeline
+
+**2024**
+
+- Started building frontend projects
+- Learned JavaScript, React fundamentals
+- Built small UI experiments
+
+**2025**
+
+- Moved into full-stack development
+- Started working with Python + FastAPI
+- Built developer utilities and dashboards
+
+**2026 (Current Focus)**
+
+- AI integrations and backend architecture
+- Stronger system thinking
+- Preparing for software internships
+
 # 🛠️ Tech Stack
 
 <div align="center">
@@ -186,6 +208,21 @@ An evolving AI project currently under active development focused on building a 
 
 ---
 
+---
+
+# 🧪 Experiments Lab
+
+Projects where I explore ideas, test concepts, and build small but useful tools.
+
+| Project                         | Description                                                            | Tech          |
+| ------------------------------- | ---------------------------------------------------------------------- | ------------- |
+| **Nova AI**                     | Experimental AI assistant interface exploring conversational workflows | React, Python |
+| **DevTool**                     | JSON formatting & developer utility tool                               | React         |
+| **Password Strength Estimator** | Password entropy + crack time simulation tool                          | JavaScript    |
+| **Random Email Generator**      | Functional email generator with domain control                         | React         |
+
+These experiments help me quickly prototype ideas and sharpen engineering skills.
+
 # 📌 Developer Snapshot
 
 <div align="center">
@@ -239,6 +276,16 @@ An evolving AI project currently under active development focused on building a 
 
 ---
 
+---
+
+# 📊 Coding Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -248,6 +295,15 @@ An evolving AI project currently under active development focused on building a 
 </div>
 
 ---
+
+---
+
+# 🧭 Engineering Philosophy
+
+- Build first, optimize later
+- Prefer working systems over theoretical perfection
+- Break things fast, fix them properly
+- Learn by shipping projects, not just tutorials
 
 # 🌐 Connect With Me
 
