@@ -140,7 +140,12 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 AI security system focused on **LLM data leak prevention** and **prompt-injection awareness**.
 
-`FastAPI` `React` `TypeScript` `Cybersecurity`
+**Tools & Tech**
+
+- FastAPI
+- React
+- TypeScript
+- Security Analysis
 
 </td>
 
@@ -150,7 +155,11 @@ AI security system focused on **LLM data leak prevention** and **prompt-injectio
 
 Data leak detection system designed to identify **sensitive information exposure**.
 
-`Python` `Security` `Backend`
+**Tools & Tech**
+
+- Python
+- Regex Pattern Detection
+- Backend Processing
 
 </td>
 
@@ -162,9 +171,13 @@ Data leak detection system designed to identify **sensitive information exposure
 
 ### 🛒 Blinkit Clone
 
-Responsive Blinkit-inspired UI with **dashboard-style layouts**.
+Responsive Blinkit-inspired UI with dashboard-style layouts.
 
-`React` `JavaScript` `CSS`
+**Tools & Tech**
+
+- React
+- JavaScript
+- CSS
 
 </td>
 
@@ -172,9 +185,13 @@ Responsive Blinkit-inspired UI with **dashboard-style layouts**.
 
 ### 🚀 VoygerSim
 
-Deep-space telemetry simulation inspired by **Voyager missions**.
+Deep-space telemetry simulation inspired by Voyager missions.
 
-`JavaScript` `Simulation`
+**Tools & Tech**
+
+- JavaScript
+- Simulation Logic
+- Interactive UI
 
 </td>
 
@@ -188,7 +205,11 @@ Deep-space telemetry simulation inspired by **Voyager missions**.
 
 Lightweight developer utility tool built to simplify small workflows.
 
-`React` `JavaScript`
+**Tools & Tech**
+
+- React
+- JavaScript
+- JSON Parsing
 
 </td>
 
@@ -198,13 +219,17 @@ Lightweight developer utility tool built to simplify small workflows.
 
 AI assistant project currently under active development.
 
-`AI` `Python` `React`
+**Tools & Tech**
+
+- Python
+- React
+- AI APIs
+- FastAPI
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 ## 🧪 Experiments Lab
