@@ -22,7 +22,7 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - **Farhaan Khan**
 - **CSE Student** at **REVA University, Bangalore**
@@ -85,8 +85,6 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 </tr>
 </table>
-
----
 
 ---
 
@@ -208,8 +206,6 @@ An evolving AI project currently under active development focused on building a 
 
 ---
 
----
-
 # 🧪 Experiments Lab
 
 Projects where I explore ideas, test concepts, and build small but useful tools.
@@ -276,13 +272,17 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 
 ---
 
----
-
 # 📊 Coding Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Far-200&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -293,8 +293,6 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 ![snake gif](https://raw.githubusercontent.com/Far-200/Far-200/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
 
 ---
 
