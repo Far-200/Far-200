@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=Building+cool+things+one+repo+at+a+time;React+%2B+Python+%2B+FastAPI+%2B+AI;Grinding+DSA+like+it%27s+a+boss+fight;Learning+by+building%2C+breaking%2C+and+shipping" />
 
-<br />
-<br />
+<br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-a855f7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Learning-AI%20%26%20Backend-8b5cf6?style=for-the-badge" />
@@ -15,7 +15,14 @@
 
 ---
 
-## 👨‍💻 About Me
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Far-200&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Far-200&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+# 👨‍💻 About Me
 
 - **Farhaan Khan**
 - **CSE Student** at **REVA University, Bangalore**
@@ -26,49 +33,76 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 ---
 
-## ⚔️ Current Quest Log
+# ⚔️ Current Quest Log
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="25%" valign="top">
 
 ### 🚀 Building
 
 - Full-stack applications
 - Better UI / UX polish
 - Backend architecture experiments
-- AI-powered ideas
+- AI-powered tools
+- Developer utilities
 
 </td>
-<td width="50%" valign="top">
+
+<td width="25%" valign="top">
 
 ### 🧩 Grinding
 
 - DSA & LeetCode consistency
-- Stronger project depth
-- Internship preparation
 - Problem-solving patterns
+- Clean coding habits
+- Algorithm thinking
 
 </td>
+
+<td width="25%" valign="top">
+
+### 🧠 Learning
+
+- System design basics
+- AI integrations
+- Secure backend development
+- Performance optimization
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🎯 Preparing
+
+- Software internships
+- Technical interviews
+- Strong GitHub portfolio
+- Production-ready projects
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22D3EE)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=34D399)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,tailwind,fastapi,nodejs,express,html,css,docker,git,github,linux,vscode,figma,mongodb,postgres&theme=dark" />
+
+</div>
+
+---
+
+# ⚙️ Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,github,docker&theme=dark" />
 
 </div>
 
@@ -78,6 +112,7 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛡️ [LLM LeakGuard Enterprise](https://github.com/Spyroedwin/llm-leakguard-enterprise)
@@ -87,6 +122,7 @@ AI security system focused on **LLM data leak prevention** and **prompt-injectio
 `FastAPI` `React` `TypeScript` `Cybersecurity`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🔐 [DLP](https://github.com/Far-200/DLP)
@@ -96,9 +132,11 @@ Data leak detection system designed to identify **sensitive information exposure
 `Python` `Security` `Backend`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛒 [Blinkit Clone](https://github.com/Far-200/blinkit-clone)
@@ -108,6 +146,7 @@ Responsive Blinkit-inspired UI with **dashboard-style layouts** and clean front-
 `React` `JavaScript` `CSS`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🚀 [VoygerSim](https://github.com/Far-200/VoygerSim)
@@ -117,9 +156,11 @@ Deep-space telemetry simulation inspired by **Voyager missions**.
 `JavaScript` `Simulation`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🧰 [DevTool](https://github.com/Far-200/DevTool)
@@ -129,21 +170,23 @@ Lightweight developer utility tool built to simplify small workflows.
 `React` `JavaScript`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🤖 [Nova AI](https://github.com/Far-200/Nova-AI)
 
-An evolving AI project currently under active development, focused on building a smarter, more capable assistant experience through iterative improvements.
+An evolving AI project currently under active development focused on building a smarter assistant experience.
 
 `AI` `Python` `React` `In Progress`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📌 Developer Snapshot
+# 📌 Developer Snapshot
 
 <div align="center">
 
@@ -153,11 +196,7 @@ An evolving AI project currently under active development, focused on building a
 
 </div>
 
-<br />
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 <table>
 <tr>
@@ -200,7 +239,7 @@ An evolving AI project currently under active development, focused on building a
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -210,13 +249,16 @@ An evolving AI project currently under active development, focused on building a
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhaan-khan-dev)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Far-200)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Farhaan_2004/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaankhanff@gmail.com)
 
 </div>
