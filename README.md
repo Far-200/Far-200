@@ -157,6 +157,11 @@ More builds are on the way as I keep sharpening my stack and project depth.
 <tr>
 <td width="50%" valign="top">
 
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
 ### 🧠 Mindset
 
 - Learn by building
@@ -165,7 +170,8 @@ More builds are on the way as I keep sharpening my stack and project depth.
 - Improve one repo at a time
 
 </td>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
 
 ### 🎯 Right Now
 
@@ -175,6 +181,18 @@ More builds are on the way as I keep sharpening my stack and project depth.
 - Growing a stronger GitHub portfolio
 
 </td>
+
+<td width="33%" valign="top">
+
+### 🧭 Next Goals
+
+- Build production-level AI tools
+- Learn deeper backend architecture
+- Contribute to open-source projects
+- Land a strong software internship
+
+</td>
+
 </tr>
 </table>
 
