@@ -136,7 +136,7 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 <td width="50%" valign="top">
 
-### 🛡️ LLM LeakGuard Enterprise
+### 🛡️ <a href="https://github.com/Spyroedwin/llm-leakguard-enterprise">LLM LeakGuard Enterprise</a>
 
 AI security system focused on **LLM data leak prevention** and **prompt-injection awareness**.
 
@@ -151,7 +151,7 @@ AI security system focused on **LLM data leak prevention** and **prompt-injectio
 
 <td width="50%" valign="top">
 
-### 🔐 DLP
+### 🔐 <a href="https://github.com/Far-200/DLP">DLP</a>
 
 Data leak detection system designed to identify **sensitive information exposure**.
 
@@ -169,7 +169,7 @@ Data leak detection system designed to identify **sensitive information exposure
 
 <td width="50%" valign="top">
 
-### 🛒 Blinkit Clone
+### 🛒 <a href="https://github.com/Far-200/blinkit-clone">Blinkit Clone</a>
 
 Responsive Blinkit-inspired UI with dashboard-style layouts.
 
@@ -183,7 +183,7 @@ Responsive Blinkit-inspired UI with dashboard-style layouts.
 
 <td width="50%" valign="top">
 
-### 🚀 VoygerSim
+### 🚀 <a href="https://github.com/Far-200/VoygerSim">VoygerSim</a>
 
 Deep-space telemetry simulation inspired by Voyager missions.
 
@@ -201,7 +201,7 @@ Deep-space telemetry simulation inspired by Voyager missions.
 
 <td width="50%" valign="top">
 
-### 🧰 DevTool
+### 🧰 <a href="https://github.com/Far-200/DevTool">DevTool</a>
 
 Lightweight developer utility tool built to simplify small workflows.
 
@@ -215,7 +215,7 @@ Lightweight developer utility tool built to simplify small workflows.
 
 <td width="50%" valign="top">
 
-### 🤖 Nova AI
+### 🤖 <a href="https://github.com/Far-200/Nova-AI-Chatbot">Nova AI Chatbot</a>
 
 AI assistant project currently under active development.
 
@@ -229,7 +229,40 @@ AI assistant project currently under active development.
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔑 <a href="https://github.com/Far-200/Password-Strength-Crack-Time-Estimator">Password Strength & Crack Time Estimator</a>
+
+Tool that estimates password entropy and simulates brute-force crack time.
+
+**Tools & Tech**
+
+- JavaScript
+- Entropy Calculation
+- Security Concepts
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 <a href="https://github.com/Far-200/Regex-Playground">Regex Playground</a>
+
+Interactive playground for testing and learning regular expressions.
+
+**Tools & Tech**
+
+- JavaScript
+- Regex Engine
+- UI Debugging Tools
+
+</td>
+
+</tr>
 </table>
+
 ---
 
 ## 🧪 Experiments Lab
