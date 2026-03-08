@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BB9AF7&height=200&section=header&text=Farhaan%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-# ⚔️ Farhaan Khan
+<div align="center">
 
 ### CSE Student • Full-Stack Builder • AI Explorer • Gamer
 
@@ -10,17 +10,24 @@
 
 ---
 
-# 🎮 Player Bio
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-* 🎓 **Class:** CSE Student at **REVA University, Bangalore**
-* 💻 **Main Quest:** Building scalable systems with **React, TypeScript, Python, FastAPI**
-* 🧠 **Skill Tree:** AI systems, backend engineering, full-stack architecture
-* ⚔️ **Current Grind:** DSA consistency, stronger projects, placement prep
-* 🎯 **Mission:** Become an internship-ready developer with real engineering depth
+## 👨‍💻 About Me
+
+🎓 Computer Science student at **REVA University, Bangalore**
+
+I enjoy building real software projects and experimenting with **AI-driven systems, backend architecture, and full-stack apps**.
+
+Currently focused on:
+
+* 🧩 **DSA & LeetCode**
+* 🌐 **Full-stack engineering**
+* 🤖 **AI powered applications**
+* 📈 **Internship & placement preparation**
 
 ---
 
-# 🛠️ Weapons of Choice
+# 🛠 Tech Stack
 
 <div align="center">
 
@@ -38,70 +45,27 @@
 
 ---
 
-# 🚀 Featured Builds
+# 🚀 Featured Projects
 
-## 🛡️ LLM-LeakGuard
+<a href="https://github.com/Far-200/LLM-LeakGuard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Far-200&repo=LLM-LeakGuard&theme=midnight-purple"/>
+</a>
 
-AI-powered **LLM security and data leak prevention system**
+<a href="https://github.com/Far-200/DLP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Far-200&repo=DLP&theme=midnight-purple"/>
+</a>
 
-Features
-• Prompt injection detection
-• Sensitive data leak detection
-• Risk scoring engine
-• Threat monitoring dashboard
-• API anomaly detection
+<a href="https://github.com/Far-200/Blinkit-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Far-200&repo=Blinkit-Dashboard&theme=midnight-purple"/>
+</a>
 
-Tech
-`FastAPI` `React` `TypeScript` `LLM Security`
-
----
-
-## 🔐 DLP Sentinel
-
-Enterprise-style **data leak detection system**
-
-Features
-• Secret pattern detection
-• Credential monitoring
-• Event logging system
-• Backend alert architecture
-
-Tech
-`Python` `Security` `Backend Systems`
+<a href="https://github.com/Far-200/VoygerSim">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Far-200&repo=VoygerSim&theme=midnight-purple"/>
+</a>
 
 ---
 
-## 📊 Blinkit Data Dashboard
-
-Interactive **data analytics dashboard**
-
-Features
-• Sales insights
-• Category analysis
-• Interactive visualizations
-• Business intelligence style dashboards
-
-Tech
-`Python` `Data Analysis` `Visualization`
-
----
-
-## 🚀 VoygerSim
-
-Deep-space telemetry simulation inspired by the Voyager missions
-
-Features
-• Signal simulation
-• Forward Error Correction
-• BER visualization
-• Telemetry modelling
-
-Tech
-`JavaScript` `Simulation`
-
----
-
-# 📊 Battle Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -125,16 +89,7 @@ Tech
 
 ---
 
-# 🧭 Current Quest Log
-
-• 🧩 DSA / LeetCode grind
-• 🌐 Building stronger full-stack systems
-• 🤖 AI-powered projects
-• 📈 Internship & placement preparation
-
----
-
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
