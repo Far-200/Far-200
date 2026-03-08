@@ -16,8 +16,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Far-200&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Far-200&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com?user=Far-200&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -33,7 +32,7 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 ---
 
-# ⚔️ Current Quest Log
+## ⚔️ Current Quest Log
 
 <table>
 <tr>
@@ -88,12 +87,12 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 ---
 
-# 📈 Learning Timeline
+## 📈 Learning Timeline
 
 **2024**
 
 - Started building frontend projects
-- Learned JavaScript, React fundamentals
+- Learned JavaScript and React fundamentals
 - Built small UI experiments
 
 **2025**
@@ -108,7 +107,9 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 - Stronger system thinking
 - Preparing for software internships
 
-# 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -118,7 +119,7 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 ---
 
-# ⚙️ Tools
+## ⚙️ Tools
 
 <div align="center">
 
@@ -128,14 +129,14 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🛡️ [LLM LeakGuard Enterprise](https://github.com/Spyroedwin/llm-leakguard-enterprise)
+### 🛡️ LLM LeakGuard Enterprise
 
 AI security system focused on **LLM data leak prevention** and **prompt-injection awareness**.
 
@@ -145,7 +146,7 @@ AI security system focused on **LLM data leak prevention** and **prompt-injectio
 
 <td width="50%" valign="top">
 
-### 🔐 [DLP](https://github.com/Far-200/DLP)
+### 🔐 DLP
 
 Data leak detection system designed to identify **sensitive information exposure**.
 
@@ -159,9 +160,9 @@ Data leak detection system designed to identify **sensitive information exposure
 
 <td width="50%" valign="top">
 
-### 🛒 [Blinkit Clone](https://github.com/Far-200/blinkit-clone)
+### 🛒 Blinkit Clone
 
-Responsive Blinkit-inspired UI with **dashboard-style layouts** and clean front-end structure.
+Responsive Blinkit-inspired UI with **dashboard-style layouts**.
 
 `React` `JavaScript` `CSS`
 
@@ -169,7 +170,7 @@ Responsive Blinkit-inspired UI with **dashboard-style layouts** and clean front-
 
 <td width="50%" valign="top">
 
-### 🚀 [VoygerSim](https://github.com/Far-200/VoygerSim)
+### 🚀 VoygerSim
 
 Deep-space telemetry simulation inspired by **Voyager missions**.
 
@@ -183,7 +184,7 @@ Deep-space telemetry simulation inspired by **Voyager missions**.
 
 <td width="50%" valign="top">
 
-### 🧰 [DevTool](https://github.com/Far-200/DevTool)
+### 🧰 DevTool
 
 Lightweight developer utility tool built to simplify small workflows.
 
@@ -193,11 +194,11 @@ Lightweight developer utility tool built to simplify small workflows.
 
 <td width="50%" valign="top">
 
-### 🤖 [Nova AI](https://github.com/Far-200/Nova-AI)
+### 🤖 Nova AI
 
-An evolving AI project currently under active development focused on building a smarter assistant experience.
+AI assistant project currently under active development.
 
-`AI` `Python` `React` `In Progress`
+`AI` `Python` `React`
 
 </td>
 
@@ -206,20 +207,22 @@ An evolving AI project currently under active development focused on building a 
 
 ---
 
-# 🧪 Experiments Lab
+## 🧪 Experiments Lab
 
-Projects where I explore ideas, test concepts, and build small but useful tools.
+Projects where I explore ideas, test concepts, and build useful tools.
 
-| Project                         | Description                                                            | Tech          |
-| ------------------------------- | ---------------------------------------------------------------------- | ------------- |
-| **Nova AI**                     | Experimental AI assistant interface exploring conversational workflows | React, Python |
-| **DevTool**                     | JSON formatting & developer utility tool                               | React         |
-| **Password Strength Estimator** | Password entropy + crack time simulation tool                          | JavaScript    |
-| **Random Email Generator**      | Functional email generator with domain control                         | React         |
+| Project                     | Description                                    | Tech          |
+| --------------------------- | ---------------------------------------------- | ------------- |
+| Nova AI                     | Experimental AI assistant interface            | React, Python |
+| DevTool                     | JSON formatting & developer utility tool       | React         |
+| Password Strength Estimator | Password entropy + crack time simulation       | JavaScript    |
+| Random Email Generator      | Functional email generator with domain control | React         |
 
 These experiments help me quickly prototype ideas and sharpen engineering skills.
 
-# 📌 Developer Snapshot
+---
+
+## 📌 Developer Snapshot
 
 <div align="center">
 
@@ -272,21 +275,19 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 
 ---
 
-# 📊 Coding Activity
+## 📊 Coding Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Far-200&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Far-200&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Far-200&theme=tokyonight&hide_border=true" />
 </p>
 
-# 🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -296,14 +297,16 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 
 ---
 
-# 🧭 Engineering Philosophy
+## 🧭 Engineering Philosophy
 
 - Build first, optimize later
 - Prefer working systems over theoretical perfection
 - Break things fast, fix them properly
 - Learn by shipping projects, not just tutorials
 
-# 🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
