@@ -275,15 +275,13 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 
 ---
 
-## 📊 Coding Activity
+## 📊 Developer Pulse
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Far-200&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Far-200&theme=tokyonight&hide_border=true" />
-</p>
+- Actively building small-to-medium full-stack projects
+- Improving DSA consistency and problem-solving habits
+- Exploring AI + backend + security-focused ideas
+- Turning experiments into portfolio-worthy projects
+- Learning by shipping, not just watching tutorials
 
 ---
 
