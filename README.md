@@ -372,7 +372,7 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Farhaan_2004/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaankhanff@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaabkhanff@gmail.com)
 
 </div>
 
