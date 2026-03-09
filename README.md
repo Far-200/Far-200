@@ -271,7 +271,7 @@ Projects where I explore ideas, test concepts, and build useful tools.
 
 | Project                     | Description                                    | Tech          |
 | --------------------------- | ---------------------------------------------- | ------------- |
-| Nova AI                     | Experimental AI assistant interface            | React, Python |
+| Cortex AI                   | Experimental AI assistant interface            | React, Python |
 | DevTool                     | JSON formatting & developer utility tool       | React         |
 | Password Strength Estimator | Password entropy + crack time simulation       | JavaScript    |
 | Random Email Generator      | Functional email generator with domain control | React         |
