@@ -215,7 +215,7 @@ Lightweight developer utility tool built to simplify small workflows.
 
 <td width="50%" valign="top">
 
-### 🤖 <a href="https://github.com/Far-200/Nova-AI-Chatbot">Nova AI Chatbot</a>
+### 🤖 <a href="https://github.com/Far-200/cortex-ai-assistant">Cortex AI Chatbot</a>
 
 AI assistant project currently under active development.
 
