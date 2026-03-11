@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0f172a,50:7c3aed,100:c084fc&text=Farhaan%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Systems%20•%20Builder&descAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=310&color=0:0f172a,45:4c1d95,75:7c3aed,100:c084fc&text=Farhaan%20Khan&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Code%20•%20Build%20•%20Break%20•%20Ship&descAlignY=71"/>
 
 <div align="center">
 
