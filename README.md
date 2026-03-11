@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:7c3aed,70:a855f7,100:c084fc&text=Farhaan%20Khan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Builder%20•%20AI%20Explorer%20•%20CSE%20Student%20•%20Gamer&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:7c3aed,50:a855f7,100:c084fc&text=Farhaan%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20•%20AI%20•%20Builder" />
 
 <div align="center">
 
@@ -350,12 +350,14 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 ![snake gif](https://raw.githubusercontent.com/Far-200/Far-200/output/github-contribution-grid-snake.svg)
 
 </div>
-## Visitor Map 
-<div allign ="center">
+
+## 🌌 GitHub Activity Snapshot
+
+<div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Far-200&theme=tokyonight" />
 
-## <div>
+</div>
 
 ---
 
