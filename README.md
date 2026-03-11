@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:0f172a,50:6366f1,100:c084fc&text=Farhaan%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0f172a,50:7c3aed,100:c084fc&text=Farhaan%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Systems%20•%20Builder&descAlignY=70" />
 
 <div align="center">
 
