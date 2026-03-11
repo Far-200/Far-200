@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=310&color=0:0f172a,45:4c1d95,75:7c3aed,100:c084fc&text=Farhaan%20Khan&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Code%20•%20Build%20•%20Break%20•%20Ship&descAlignY=71"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:020617,35:0f172a,70:1e1b4b,100:6d28d9&text=Farhaan%20Khan&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Systems%20•%20Builder&descAlignY=68" />
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Far-200&theme=tokyonight&hide_border=true&cache_seconds=300" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Far-200&theme=tokyonight&hide_border=true&cache_seconds=180" height="165" />
 </p>
 
 ---
@@ -376,7 +376,7 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhaan-khan-dev)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Far-200)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://farhaan-khan.vercel.app/)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Farhaan_2004/)
 
