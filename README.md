@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Far-200&theme=tokyonight&hide_border=true&cache_seconds=180" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Far-200&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
