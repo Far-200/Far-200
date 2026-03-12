@@ -117,6 +117,14 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 </div>
 
+## 🧠 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
 ---
 
 ## ⚙️ Tools
