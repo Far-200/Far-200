@@ -16,7 +16,8 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Far-200&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Far-200&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Far-200&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
