@@ -15,10 +15,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Far-200&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Far-200&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Far-200&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=Far-200&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=donut&theme=tokyonight&hide_border=true" height="220"/>
+
+</div>
 
 ---
 
@@ -88,6 +95,23 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+
+### Backend & Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,nodejs,express,mongodb,postgres&theme=dark" />
+
+### Tools & Design
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,figma,postman&theme=dark" />
+
+</div>
+
+---
+
 ## 📈 Learning Timeline
 
 **2024**
@@ -110,29 +134,17 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 LeetCode Progress
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,tailwind,fastapi,nodejs,express,html,css,docker,git,github,linux,vscode,figma,mongodb,postgres&theme=dark" />
+<img src="https://img.shields.io/badge/LeetCode-Solved%2057%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 
-</div>
+<br/>
 
-## 🧠 Most Used Languages
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## ⚙️ Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,github,docker&theme=dark" />
+<img src="https://leetcard.jacoblin.cool/Farhaan_2004?theme=dark&font=Fira%20Code&ext=heatmap" />
 
 </div>
 
@@ -365,6 +377,16 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 <div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Far-200&theme=tokyonight" />
+
+</div>
+
+## 🏙️ Contribution Skyline
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Far-200&theme=tokyonight&utcOffset=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Far-200&theme=tokyonight" />
+
 
 </div>
 
