@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="220"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far-200&layout=donut-vertical&theme=tokyonight&hide_border=true" height="220"/>
 
 </div>
 
