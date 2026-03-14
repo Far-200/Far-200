@@ -100,12 +100,15 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 <div align="center">
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
 ### Backend & Languages
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,nodejs,express,mongodb,postgres&theme=dark" />
 
 ### Tools & Design
+
 <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,figma,postman&theme=dark" />
 
 </div>
@@ -138,7 +141,7 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-Solved%2057%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+![LeetCode Stats](https://leetcard.jacoblin.cool/Farhaan_2004?theme=dark&font=Baloo)
 
 <br/>
 
@@ -386,7 +389,6 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Far-200&theme=tokyonight&utcOffset=8" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Far-200&theme=tokyonight" />
-
 
 </div>
 
