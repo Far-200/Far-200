@@ -145,10 +145,6 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 <br/>
 
-<br/>
-
-<img src="https://leetcard.jacoblin.cool/Farhaan_2004?theme=dark&font=Fira%20Code&ext=heatmap" />
-
 </div>
 
 ---
