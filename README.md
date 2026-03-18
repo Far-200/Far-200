@@ -425,6 +425,6 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 
 <div align="center">
 
-_I debug code with hope, snacks, and occasional emotional damage._
+_I debug code with hope, snacks, and occasional emotional damage and some hope🫠._
 
 </div>
