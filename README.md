@@ -141,7 +141,7 @@ I enjoy building practical systems across full-stack applications, AI-driven too
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Farhaan_2004?theme=dark&font=Baloo)
+<img src="https://leetcard.jacoblin.cool/Farhaan_2004?theme=dark&font=Baloo&ext=contest" />
 
 <br/>
 
@@ -183,6 +183,8 @@ Data leak detection system designed to identify **sensitive information exposure
 
 </td>
 
+</tr>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -202,8 +204,6 @@ Perfect for quickly bootstrapping projects like **React, Node, or custom setups*
 
 </td>
 
-<tr>
-
 <td width="50%" valign="top">
 
 ### 🛒 <a href="https://github.com/Far-200/blinkit-clone">Blinkit Clone</a>
@@ -217,6 +217,10 @@ Responsive Blinkit-inspired UI with dashboard-style layouts.
 - CSS
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -232,10 +236,6 @@ Deep-space telemetry simulation inspired by Voyager missions.
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 ### 🧰 <a href="https://github.com/Far-200/DevTool">DevTool</a>
@@ -250,24 +250,41 @@ Lightweight developer utility tool built to simplify small workflows.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
-### 📁 <a href="https://github.com/Far-200/folder-structure-visualizer">Folder Structure Visualiser</a>
+### 🔑 <a href="https://github.com/Far-200/Password-Strength-Crack-Time-Estimator">Password Strength & Crack Time Estimator</a>
 
-Developer tool that converts typed folder structures or ASCII trees into an **actual downloadable project scaffold**.
-
-Users can quickly generate clean project setups and export them as a ready-to-use **ZIP structure**.
+Tool that estimates password entropy and simulates brute-force crack time.
 
 **Tools & Tech**
 
-- React
 - JavaScript
-- Tree Parsing Logic
-- JSZip
+- Entropy Calculation
+- Security Concepts
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 <a href="https://github.com/Far-200/Regex-Playground">Regex Playground</a>
+
+Interactive playground for testing and learning regular expressions.
+
+**Tools & Tech**
+
+- JavaScript
+- Regex Engine
+- UI Debugging Tools
 
 </td>
 
 </tr>
+
+</table>
 
 <tr>
 
