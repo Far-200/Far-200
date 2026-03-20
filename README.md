@@ -183,7 +183,24 @@ Data leak detection system designed to identify **sensitive information exposure
 
 </td>
 
-</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📁 <a href="https://github.com/Far-200/folder-structure-visualiser">Folder Structure Visualiser</a>
+
+Tool that turns typed folder structures into **real downloadable project scaffolds**.
+
+Perfect for quickly bootstrapping projects like **React, Node, or custom setups**.
+
+**Tools & Tech**
+
+- React
+- JavaScript
+- Tree Parsing
+- JSZip
+
+</td>
 
 <tr>
 
@@ -235,16 +252,18 @@ Lightweight developer utility tool built to simplify small workflows.
 
 <td width="50%" valign="top">
 
-### 🤖 <a href="https://github.com/Far-200/cortex-ai-assistant">Cortex AI Chatbot</a>
+### 📁 <a href="https://github.com/Far-200/folder-structure-visualizer">Folder Structure Visualiser</a>
 
-AI assistant project currently under active development.
+Developer tool that converts typed folder structures or ASCII trees into an **actual downloadable project scaffold**.
+
+Users can quickly generate clean project setups and export them as a ready-to-use **ZIP structure**.
 
 **Tools & Tech**
 
-- Python
 - React
-- AI APIs
-- FastAPI
+- JavaScript
+- Tree Parsing Logic
+- JSZip
 
 </td>
 
@@ -289,12 +308,12 @@ Interactive playground for testing and learning regular expressions.
 
 Projects where I explore ideas, test concepts, and build useful tools.
 
-| Project                     | Description                                    | Tech          |
-| --------------------------- | ---------------------------------------------- | ------------- |
-| Cortex AI                   | Experimental AI assistant interface            | React, Python |
-| DevTool                     | JSON formatting & developer utility tool       | React         |
-| Password Strength Estimator | Password entropy + crack time simulation       | JavaScript    |
-| Random Email Generator      | Functional email generator with domain control | React         |
+| Project                     | Description                                             | Tech         |
+| --------------------------- | ------------------------------------------------------- | ------------ |
+| Folder Structure Visualiser | Converts typed folder trees into real project scaffolds | React, JSZip |
+| DevTool                     | JSON formatting & developer utility tool                | React        |
+| Password Strength Estimator | Password entropy + crack time simulation                | JavaScript   |
+| Random Email Generator      | Functional email generator with domain control          | React        |
 
 These experiments help me quickly prototype ideas and sharpen engineering skills.
 
@@ -425,6 +444,6 @@ These experiments help me quickly prototype ideas and sharpen engineering skills
 
 <div align="center">
 
-_I debug code with hope, snacks, and occasional emotional damage and some hope🫠._
+_I debug code with hope, snacks, and occasional emotional damage._
 
 </div>
