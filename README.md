@@ -189,7 +189,7 @@ Data leak detection system designed to identify **sensitive information exposure
 
 <td width="50%" valign="top">
 
-### 📁 <a href="https://github.com/Far-200/folder-structure-visualiser">Folder Structure Visualiser</a>
+### 📁 <a href="https://github.com/Far-200/folder-structure-visualizer">Folder Structure Visualiser</a>
 
 Tool that turns typed folder structures into **real downloadable project scaffolds**.
 
@@ -251,40 +251,6 @@ Lightweight developer utility tool built to simplify small workflows.
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔑 <a href="https://github.com/Far-200/Password-Strength-Crack-Time-Estimator">Password Strength & Crack Time Estimator</a>
-
-Tool that estimates password entropy and simulates brute-force crack time.
-
-**Tools & Tech**
-
-- JavaScript
-- Entropy Calculation
-- Security Concepts
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧩 <a href="https://github.com/Far-200/Regex-Playground">Regex Playground</a>
-
-Interactive playground for testing and learning regular expressions.
-
-**Tools & Tech**
-
-- JavaScript
-- Regex Engine
-- UI Debugging Tools
-
-</td>
-
-</tr>
-
-</table>
 
 <tr>
 
