@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:020617,35:0f172a,70:1e1b4b,100:6d28d9&text=Farhaan%20Khan&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI-Assisted%20Builder%20•%20Student%20Engineer&descAlignY=68" />
+<img width="100%" src="assets/readme-banner.svg" alt="Farhaan Khan — Full Stack Developer, AI-Assisted Builder, Student Engineer" />
 
 <div align="center">
 
