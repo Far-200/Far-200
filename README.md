@@ -1,4 +1,4 @@
-<img width="100%" src="assets/readme-banner.svg" alt="Farhaan Khan — Full Stack Developer, AI-Assisted Builder, Student Engineer" />
+<img width="100%" src="assets/readme-banner-v2.svg" alt="Farhaan Khan — Full Stack Developer, AI-Assisted Builder, Student Engineer" />
 
 <div align="center">
 
