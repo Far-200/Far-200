@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm Farhaan — a CSE student at REVA University, Bangalore, building my way toward an internship-ready engineering skillset.
+I'm Farhaan — a CSE student at REVA University, Bangalore, building my way toward an internship-ready engineering skillset (Hope so🫠).
 
 I work mainly with React on the frontend and Python/FastAPI on the backend, and I'm gradually adding AI-assisted tooling and security-aware development into the mix. My approach is simple: pick a real problem, build something that actually solves it, and learn whatever the project forces me to learn along the way.
 
