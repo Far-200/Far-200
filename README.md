@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-a855f7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Learning-AI%20%26%20Backend-8b5cf6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Grinding-DSA%20Daily-7c3aed?style=for-the-badge" />
-
+ 
 </div>
 
 ---
