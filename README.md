@@ -34,7 +34,7 @@
 - **Farhaan Khan**
 - **CSE Student** at **REVA University, Bangalore**
 - Focused on **Full-Stack Development, AI Systems, and practical software building**
-- Working toward becoming an **internship-ready developer with real engineering depth**
+- Working toward becoming an **internship-ready developer with real engineering depth** 
 
 I enjoy building practical systems across full-stack applications, AI-driven tools, backend architectures, dashboards, and developer utilities.
 
