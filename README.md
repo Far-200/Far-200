@@ -1,6 +1,6 @@
 <img width="100%" src="./assets/profile-terminal.svg" alt="Farhaan Khan developer profile terminal" />
 
-I'm a CSE student at REVA University building full-stack apps, developer tools, and increasingly AI-assisted systems like Think Before Code. Most of what's here started as "let me just try this" and turned into something I can actually defend in an interview. I ship things, break them, and write down what I learned.
+I'm a CSE student at REVA University building full-stack apps, developer tools, and increasingly AI-assisted systems like Think Before Code. Most of what's here started as "let me just try this" and turned into something I can actually defend in an interview (hopefully🫠). I ship things, break them, and write down what I learned.
 
 ---
 
