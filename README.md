@@ -119,7 +119,7 @@ Status: **Experimental**
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9d7cd8?style=for-the-badge&logo=vercel&logoColor=white)](https://farhaankhan.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhaan-khan-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI0IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjR6TTcuMTE5IDIwLjQ1MkgzLjU1NFY5aDMuNTY1djExLjQ1MnoiLz48L3N2Zz4=)](https://www.linkedin.com/in/farhaan-khan-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-c0caf5?style=for-the-badge&logo=github&logoColor=1a1b26)](https://github.com/Far-200)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b26)](https://leetcode.com/u/Farhaan_2004/)
 [![X](https://img.shields.io/badge/X-Follow-c0caf5?style=for-the-badge&logo=x&logoColor=1a1b26)](https://x.com/PotatoBuiltThis)
