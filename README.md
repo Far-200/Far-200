@@ -119,7 +119,7 @@ Status: **Experimental**
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9d7cd8?style=for-the-badge&logo=vercel&logoColor=white)](https://farhaankhan.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=1)](https://www.linkedin.com/in/farhaan-khan-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhaan-khan-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-c0caf5?style=for-the-badge&logo=github&logoColor=1a1b26)](https://github.com/Far-200)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b26)](https://leetcode.com/u/Farhaan_2004/)
 [![X](https://img.shields.io/badge/X-Follow-c0caf5?style=for-the-badge&logo=x&logoColor=1a1b26)](https://x.com/PotatoBuiltThis)
