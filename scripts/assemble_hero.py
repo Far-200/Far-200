@@ -2,13 +2,13 @@
 """
 assemble_hero.py
 
-Combines the dot-matrix portrait fragment (assets/profile-art.svg, produced
+Combines the dot-matrix `</>` fragment (assets/profile-art.svg, produced
 by generate_profile_art.py) with the terminal chrome, neofetch-style info
 column, and bottom prompt line into the final, committed hero image:
 
     assets/profile-terminal.svg
 
-Run generate_profile_art.py first if profile-source.png changes.
+Run generate_profile_art.py first if the glyph geometry changes.
 """
 
 import os
@@ -17,7 +17,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ART_PATH = os.path.join(SCRIPT_DIR, "..", "assets", "profile-art.svg")
 OUTPUT_PATH = os.path.join(SCRIPT_DIR, "..", "assets", "profile-terminal.svg")
 
-with open(ART_PATH) as f:
+with open(ART_PATH, encoding="utf-8") as f:
     ART_FRAGMENT = f.read().strip()
 
 # Palette
@@ -66,7 +66,7 @@ info_rows_svg = "\n  ".join(row_svg)
 
 svg = f'''<svg viewBox="0 0 1400 760" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="hero-title hero-desc">
   <title id="hero-title">Farhaan Khan developer profile terminal</title>
-  <desc id="hero-desc">A neofetch-style terminal window showing Farhaan Khan's role, university, focus areas, tech stack, current projects, and a dot-matrix portrait of Quackrates, the Think Before Code mascot.</desc>
+  <desc id="hero-desc">A neofetch-style terminal window showing Farhaan Khan's role, university, focus areas, tech stack, current projects, and a large dot-matrix rendering of the code symbol &lt;/&gt;.</desc>
 
   <rect width="1400" height="760" fill="{BG}"/>
 
@@ -87,7 +87,7 @@ svg = f'''<svg viewBox="0 0 1400 760" xmlns="http://www.w3.org/2000/svg" role="i
     <tspan fill="{GREEN}">farhaan</tspan><tspan fill="{TEXT_SECONDARY}">@github</tspan><tspan fill="{TEXT_SECONDARY}">:~$ </tspan><tspan fill="{PURPLE_LIGHT}">neofetch --profile</tspan>
   </text>
 
-  <!-- left column: dot-matrix portrait -->
+  <!-- left column: dot-matrix </> glyph -->
   <g transform="translate(52,150) scale(0.889)">
     {ART_FRAGMENT}
   </g>
@@ -107,7 +107,7 @@ svg = f'''<svg viewBox="0 0 1400 760" xmlns="http://www.w3.org/2000/svg" role="i
 </svg>
 '''
 
-with open(OUTPUT_PATH, "w") as f:
+with open(OUTPUT_PATH, "w", encoding="utf-8", newline="\n") as f:
     f.write(svg)
 
 print(f"Wrote {len(svg)} bytes to {OUTPUT_PATH}")

@@ -1,0 +1,10 @@
+# Local virtualenv used for profile-art generation (never commit)
+.venv-profile-art/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS cruft
+.DS_Store
+Thumbs.db
