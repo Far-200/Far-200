@@ -37,7 +37,7 @@ FONT = ('ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, '
 info_rows = [
     ("Role", "CSE Student · Full-Stack Builder"),
     ("University", "REVA University · Bengaluru"),
-    ("Focus", "Backend Systems · AI Tools · Practical Software"),
+    ("Focus", "Developer Tools · AI-Assisted Software · Practical Projects"),
     ("Stack", "React · Python · FastAPI · Java · C++"),
     ("Building", "Think Before Code · FlowTrace"),
     ("Learning", "DSA · System Design · Secure Backend Dev"),
@@ -103,7 +103,7 @@ svg = f'''<svg viewBox="0 0 1400 760" xmlns="http://www.w3.org/2000/svg" role="i
   <text x="52" y="706" font-family='{FONT}' font-size="16">
     <tspan fill="{GREEN}">farhaan</tspan><tspan fill="{TEXT_SECONDARY}">@github</tspan><tspan fill="{TEXT_SECONDARY}">:~$ </tspan><tspan fill="{TEXT_PRIMARY}">think-before-code</tspan><tspan fill="{PURPLE_LIGHT}">▌</tspan>
   </text>
-  <text x="1348" y="706" text-anchor="end" font-family='{FONT}' font-size="13" fill="{TEXT_SECONDARY}">open to internships · backend / AI-assisted roles</text>
+  <text x="1348" y="706" text-anchor="end" font-family='{FONT}' font-size="13" fill="{TEXT_SECONDARY}">open to internships · software engineering / developer tools</text>
 </svg>
 '''
 

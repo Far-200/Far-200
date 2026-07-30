@@ -492,7 +492,7 @@
   <text x="592" y="294" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="15" font-weight="600" fill="#a855f7">University</text>
   <text x="710" y="294" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="15" fill="#f0f6fc">REVA University · Bengaluru</text>
   <text x="592" y="328" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="15" font-weight="600" fill="#a855f7">Focus</text>
-  <text x="710" y="328" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="15" fill="#f0f6fc">Backend Systems · AI Tools · Practical Software</text>
+  <text x="710" y="328" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="15" fill="#f0f6fc">Developer Tools · AI-Assisted Software · Practical Projects</text>
   <text x="592" y="362" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="15" font-weight="600" fill="#a855f7">Stack</text>
   <text x="710" y="362" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="15" fill="#f0f6fc">React · Python · FastAPI · Java · C++</text>
   <text x="592" y="396" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="15" font-weight="600" fill="#a855f7">Building</text>
@@ -509,5 +509,5 @@
   <text x="52" y="706" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="16">
     <tspan fill="#3fb950">farhaan</tspan><tspan fill="#8b949e">@github</tspan><tspan fill="#8b949e">:~$ </tspan><tspan fill="#f0f6fc">think-before-code</tspan><tspan fill="#c084fc">▌</tspan>
   </text>
-  <text x="1348" y="706" text-anchor="end" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="13" fill="#8b949e">open to internships · backend / AI-assisted roles</text>
+  <text x="1348" y="706" text-anchor="end" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="13" fill="#8b949e">open to internships · software engineering / developer tools</text>
 </svg>
