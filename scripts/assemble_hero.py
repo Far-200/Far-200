@@ -2,23 +2,53 @@
 """
 assemble_hero.py
 
-Combines the dot-matrix `</>` fragment (assets/profile-art.svg, produced
-by generate_profile_art.py) with the terminal chrome, neofetch-style info
-column, and bottom prompt line into the final, committed hero image:
+Combines the dot-matrix artwork fragment (assets/profile-art.svg, produced by
+generate_profile_art.py) with the terminal chrome, neofetch-style info column,
+and bottom prompt line into the final, committed hero image:
 
     assets/profile-terminal.svg
 
-Run generate_profile_art.py first if the glyph geometry changes.
+Run generate_profile_art.py first if the artwork changes.
+
+Usage:
+    python3 assemble_hero.py
+    python3 assemble_hero.py --art preview/art-a.svg --out preview/hero-a.svg
+
+--art/--out exist so candidate artwork can be previewed inside the complete
+terminal without overwriting the committed hero.
 """
 
+import argparse
 import os
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-ART_PATH = os.path.join(SCRIPT_DIR, "..", "assets", "profile-art.svg")
-OUTPUT_PATH = os.path.join(SCRIPT_DIR, "..", "assets", "profile-terminal.svg")
+DEFAULT_ART = os.path.join(SCRIPT_DIR, "..", "assets", "profile-art.svg")
+DEFAULT_OUT = os.path.join(SCRIPT_DIR, "..", "assets", "profile-terminal.svg")
+
+_parser = argparse.ArgumentParser(description="Assemble the terminal hero SVG.")
+_parser.add_argument("--art", default=DEFAULT_ART,
+                     help="dot-matrix <g> fragment to embed")
+_parser.add_argument("--out", default=DEFAULT_OUT,
+                     help="where to write the assembled hero SVG")
+_parser.add_argument("--desc", default=None,
+                     help="override the accessible description of the artwork")
+_args = _parser.parse_args()
+
+ART_PATH = _args.art
+OUTPUT_PATH = _args.out
 
 with open(ART_PATH, encoding="utf-8") as f:
     ART_FRAGMENT = f.read().strip()
+
+# The artwork's <g> id tells us what is actually being embedded, so the
+# accessible description stays truthful whichever subject was generated.
+if _args.desc:
+    ART_DESC = _args.desc
+elif 'id="portrait-dot-matrix"' in ART_FRAGMENT:
+    ART_DESC = ("a large dot-matrix portrait of Farhaan Khan rendered in "
+                "purple dots")
+else:
+    ART_DESC = ("a large dot-matrix rendering of the code symbol &lt;/&gt;")
 
 # Palette
 BG = "#0d1117"
@@ -66,7 +96,7 @@ info_rows_svg = "\n  ".join(row_svg)
 
 svg = f'''<svg viewBox="0 0 1400 760" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="hero-title hero-desc">
   <title id="hero-title">Farhaan Khan developer profile terminal</title>
-  <desc id="hero-desc">A neofetch-style terminal window showing Farhaan Khan's role, university, focus areas, tech stack, current projects, and a large dot-matrix rendering of the code symbol &lt;/&gt;.</desc>
+  <desc id="hero-desc">A neofetch-style terminal window showing Farhaan Khan's role, university, focus areas, tech stack, current projects, and {ART_DESC}.</desc>
 
   <rect width="1400" height="760" fill="{BG}"/>
 
@@ -87,7 +117,7 @@ svg = f'''<svg viewBox="0 0 1400 760" xmlns="http://www.w3.org/2000/svg" role="i
     <tspan fill="{GREEN}">farhaan</tspan><tspan fill="{TEXT_SECONDARY}">@github</tspan><tspan fill="{TEXT_SECONDARY}">:~$ </tspan><tspan fill="{PURPLE_LIGHT}">neofetch --profile</tspan>
   </text>
 
-  <!-- left column: dot-matrix </> glyph -->
+  <!-- left column: dot-matrix artwork -->
   <g transform="translate(52,150) scale(0.889)">
     {ART_FRAGMENT}
   </g>
@@ -107,7 +137,8 @@ svg = f'''<svg viewBox="0 0 1400 760" xmlns="http://www.w3.org/2000/svg" role="i
 </svg>
 '''
 
+os.makedirs(os.path.dirname(os.path.abspath(OUTPUT_PATH)), exist_ok=True)
 with open(OUTPUT_PATH, "w", encoding="utf-8", newline="\n") as f:
     f.write(svg)
 
-print(f"Wrote {len(svg)} bytes to {OUTPUT_PATH}")
+print(f"Wrote {len(svg)/1024:.1f} KB to {OUTPUT_PATH}  (art: {ART_PATH})")
