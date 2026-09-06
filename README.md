@@ -57,6 +57,16 @@ Status: **Experimental**
 
 ---
 
+### 🏆 Milestones
+
+- 🔥 **500+ GitHub contributions** and counting.
+- 🦆 Built **[Think Before Code](https://github.com/Far-200/think-before-code)** around Socratic, AI-assisted DSA learning.
+- 🌐 Shipped **[Folder Structure Visualizer](https://foldervisualiser.farhaankhan.dev/)** as a live developer tool.
+- 🛠️ Built projects across **developer tooling, full-stack development, simulations, and AI-assisted systems**.
+- 🎓 B.Tech CSE student at **REVA University**.
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -123,7 +133,7 @@ Status: **Experimental**
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-c0caf5?style=for-the-badge&logo=github&logoColor=1a1b26)](https://github.com/Far-200)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b26)](https://leetcode.com/u/Farhaan_2004/)
 [![X](https://img.shields.io/badge/X-Follow-c0caf5?style=for-the-badge&logo=x&logoColor=1a1b26)](https://x.com/PotatoBuiltThis)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-f7768e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhaabkhanff@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-f7768e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.farhaankhan@gmail.com)
 
 </div>
 
