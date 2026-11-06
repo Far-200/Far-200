@@ -9,7 +9,20 @@
 **Developer in Development™**<br>
 Developer tools · AI-assisted systems · Questionable experiments
 
-[Portfolio](https://farhaankhan.dev/) · [LinkedIn](https://www.linkedin.com/in/farhaan-khan-dev) · [X](https://x.com/FarKh_Nhi) · [LeetCode](https://leetcode.com/u/Farhaan_2004/)
+<!-- Static, playful system flags; these badges do not report live telemetry. -->
+<p>
+  <img src="https://img.shields.io/badge/curiosity-root_access-7c3aed?style=flat-square&amp;labelColor=334155" alt="Curiosity: root access (decorative)">
+  <img src="https://img.shields.io/badge/scope-expanding-475569?style=flat-square&amp;labelColor=334155" alt="Scope: expanding (decorative)">
+  <img src="https://img.shields.io/badge/workflow-AI--assisted-3f6f73?style=flat-square&amp;labelColor=334155" alt="Workflow: AI-assisted">
+  <img src="https://img.shields.io/badge/sanity_check-skipped-9b4a56?style=flat-square&amp;labelColor=334155" alt="Sanity check: skipped (decorative)">
+</p>
+
+<p>
+  <a href="https://farhaankhan.dev/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/farhaan-khan-dev"><img src="https://img.shields.io/badge/LinkedIn-475569?style=flat-square" alt="LinkedIn"></a>
+  <a href="https://x.com/FarKh_Nhi"><img src="https://img.shields.io/badge/X-3f6f73?style=flat-square" alt="X"></a>
+  <a href="https://leetcode.com/u/Farhaan_2004/"><img src="https://img.shields.io/badge/LeetCode-9b4a56?style=flat-square" alt="LeetCode"></a>
+</p>
 
 Building things that usually begin with **“let me just try this.”**<br>
 Sometimes they even survive. 🫠
@@ -101,6 +114,13 @@ AI-assisted development is part of my workflow. These descriptions cover what th
 ## `05 /` Technology stack
 
 Across projects and practice; proficiency is still under construction.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-7c3aed?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-475569?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-3f6f73?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Git-9b4a56?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
+</p>
 
 | Layer | Working set |
 | :--- | :--- |
