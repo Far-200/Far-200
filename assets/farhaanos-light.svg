@@ -1,41 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="320" viewBox="0 0 840 320" role="img" aria-labelledby="title desc">
-  <title id="title">FarhaanOS — developer control panel</title>
-  <desc id="desc">A violet terminal dashboard with an abstract command prompt insignia. Profile edition v0.1 is a decorative label. Curiosity has root access.</desc>
-  <!-- Self-contained vector artwork: no fonts, scripts, or external resources. -->
-  <defs>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" fill="none" stroke="#7c3aed" stroke-opacity=".08"/>
-    </pattern>
-    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
-      <stop stop-color="#6d28d9"/>
-      <stop offset="1" stop-color="#0e7490"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="838" height="318" rx="16" fill="#f8f7fc" stroke="#d6d2e3"/>
-  <path d="M17 1H823Q839 1 839 17V45H1V17Q1 1 17 1Z" fill="#efedf7"/>
-  <path d="M1 45H839" stroke="#d6d2e3"/>
+  <title id="title">FarhaanOS - developer control panel</title>
+  <desc id="desc">A quiet terminal panel with a wide-eyed, abstract terminal mascot and a tiny sweat drop. Profile edition v0.1; curiosity has root access.</desc>
+  <rect x="1" y="1" width="838" height="318" rx="16" fill="#FAF8F5" stroke="#C7C7C1"/>
+  <path d="M17 1H823Q839 1 839 17V45H1V17Q1 1 17 1Z" fill="#EDE8E2"/>
+  <path d="M1 45H839" stroke="#C7C7C1"/>
   <g font-family="Consolas, 'Liberation Mono', monospace">
-    <circle cx="24" cy="23" r="4" fill="#6d28d9"/>
-    <circle cx="40" cy="23" r="4" fill="#0e7490"/>
-    <circle cx="56" cy="23" r="4" fill="#166534"/>
-    <text x="76" y="28" fill="#53536a" font-size="12">farhaan@github:~</text>
-    <text x="814" y="28" text-anchor="end" fill="#6d28d9" font-size="12">PROFILE / v0.1</text>
-    <text x="32" y="88" fill="#166534" font-size="15">&gt; boot curiosity</text>
-    <text x="28" y="160" fill="#211b36" font-size="64" font-weight="700" letter-spacing="-3">Farhaan<tspan fill="#6d28d9">OS</tspan></text>
-    <text x="32" y="198" fill="#53536a" font-size="16">DEVELOPER CONTROL PANEL</text>
-    <rect x="32" y="224" width="4" height="18" rx="1" fill="#6d28d9"/>
-    <text x="46" y="238" fill="#6d28d9" font-size="14">curiosity has root access.</text>
-    <path d="M32 266H808" stroke="#d6d2e3"/>
-    <text x="32" y="294" fill="#53536a" font-size="12">OPERATOR: FAR-200</text>
-    <text x="808" y="294" text-anchor="end" fill="#53536a" font-size="12">PERSONAL SYSTEM / ALWAYS IN DEVELOPMENT</text>
+    <circle cx="24" cy="23" r="4" fill="#795D48"/><circle cx="40" cy="23" r="4" fill="#356B82"/><circle cx="56" cy="23" r="4" fill="#306D6D"/>
+    <text x="76" y="28" fill="#524E51" font-size="12">farhaan@github:~</text>
+    <text x="814" y="28" text-anchor="end" fill="#356B82" font-size="12">PROFILE / v0.1</text>
+    <text x="32" y="88" fill="#306D6D" font-size="15">&gt; boot curiosity</text>
+    <text x="28" y="160" fill="#323036" font-size="64" font-weight="700" letter-spacing="-3">Farhaan<tspan fill="#356B82">OS</tspan></text>
+    <text x="32" y="198" fill="#524E51" font-size="16">DEVELOPER CONTROL PANEL</text>
+    <rect x="32" y="224" width="4" height="18" rx="1" fill="#795D48"/>
+    <text x="46" y="238" fill="#795D48" font-size="14">curiosity has root access.</text>
+    <path d="M32 266H808" stroke="#C7C7C1"/>
+    <text x="32" y="294" fill="#524E51" font-size="12">OPERATOR: FAR-200</text>
+    <text x="808" y="294" text-anchor="end" fill="#524E51" font-size="12">PERSONAL SYSTEM / ALWAYS IN DEVELOPMENT</text>
   </g>
-  <rect x="566" y="62" width="242" height="188" rx="8" fill="url(#grid)"/>
-  <g fill="none" stroke="#7c3aed">
-    <path d="M586 93V78H601M773 78H788V93M788 219V234H773M601 234H586V219" stroke-opacity=".65"/>
-    <path d="M687 90L752 127V201L687 238L622 201V127Z" stroke-opacity=".23"/>
-    <path d="M687 103L740 134V194L687 225L634 194V134Z" stroke-opacity=".4"/>
-    <path d="M661 143L683 164L661 185M695 185H716" stroke="url(#accent)" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter"/>
-  </g>
-  <circle cx="752" cy="127" r="4" fill="#0e7490"/>
-  <circle cx="622" cy="201" r="4" fill="#6d28d9"/>
+  <!-- An original, abstract terminal face: a blank stare and one small drop. -->
+  <rect x="582" y="77" width="210" height="166" rx="12" fill="#E5EEF0" stroke="#C7C7C1"/>
+  <path d="M583 107H791" stroke="#C7C7C1"/>
+  <circle cx="601" cy="92" r="3" fill="#795D48"/><path d="M614 92H642" stroke="#524E51" stroke-width="2" stroke-linecap="round"/>
+  <path d="M617 131l-11 11 11 11M757 131l11 11-11 11" fill="none" stroke="#356B82" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="662" cy="157" r="7" fill="none" stroke="#323036" stroke-width="3"/><circle cx="708" cy="157" r="7" fill="none" stroke="#323036" stroke-width="3"/>
+  <path d="M677 183h16" fill="none" stroke="#323036" stroke-width="3" stroke-linecap="round"/>
+  <path d="M737 132c-3 5-5 8-5 11a5 5 0 0 0 10 0c0-3-2-6-5-11Z" fill="#396F88"/>
+  <path d="M669 211h30" stroke="#306D6D" stroke-width="3" stroke-linecap="round"/>
 </svg>

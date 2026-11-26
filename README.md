@@ -4,16 +4,21 @@
   <img src="assets/farhaanos-dark.svg" width="100%" alt="FarhaanOS — a developer control panel. Profile edition v0.1; curiosity has root access.">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/dev-status-light.svg">
+  <img src="assets/dev-status-dark.svg" width="100%" alt="Farhaan.exe: building, learning, breaking, fixing.">
+</picture>
+
 # Farhaan Khan
 
 **Developer in Development™**  
 Developer tools · AI-assisted systems · Questionable experiments
 
 <p>
-  <a href="https://farhaankhan.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-VISIT-7C3AED?style=for-the-badge&amp;labelColor=222033&amp;logo=googlechrome&amp;logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/farhaan-khan-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONNECT-2563A6?style=for-the-badge&amp;labelColor=222033&amp;logo=linkedin&amp;logoColor=white"></a>
-  <a href="https://x.com/FarKh_Nhi"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-FOLLOW-3F6F73?style=for-the-badge&amp;labelColor=222033&amp;logo=x&amp;logoColor=white"></a>
-  <a href="https://leetcode.com/u/Farhaan_2004/"><img alt="LeetCode" src="https://img.shields.io/badge/LEETCODE-PRACTICE-A06A30?style=for-the-badge&amp;labelColor=222033&amp;logo=leetcode&amp;logoColor=white"></a>
+  <a href="https://farhaankhan.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-VISIT-356B82?style=for-the-badge&amp;labelColor=323036&amp;logo=googlechrome&amp;logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/farhaan-khan-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONNECT-356B82?style=for-the-badge&amp;labelColor=323036&amp;logo=linkedin&amp;logoColor=white"></a>
+  <a href="https://x.com/FarKh_Nhi"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-FOLLOW-306D6D?style=for-the-badge&amp;labelColor=323036&amp;logo=x&amp;logoColor=white"></a>
+  <a href="https://leetcode.com/u/Farhaan_2004/"><img alt="LeetCode" src="https://img.shields.io/badge/LEETCODE-PRACTICE-795D48?style=for-the-badge&amp;labelColor=323036&amp;logo=leetcode&amp;logoColor=white"></a>
 </p>
 
 Building things that usually begin with **“let me just try this.”**  

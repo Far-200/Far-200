@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="54" viewBox="0 0 840 54" role="img" aria-labelledby="title">
+  <title id="title">Farhaan.exe: building, learning, breaking, fixing.</title>
+  <rect x="1" y="1" width="838" height="52" rx="9" fill="#161B22" stroke="#39434A"/>
+  <circle cx="25" cy="27" r="4" fill="#7DB6B1"/>
+  <g font-family="Consolas, 'Liberation Mono', monospace" font-size="14">
+    <text x="40" y="32" fill="#A2C2D2" font-weight="700">FARHAAN.EXE</text>
+    <text x="157" y="32" fill="#A2B7BE">//</text>
+    <text x="190" y="32" fill="#F1E8DF">BUILDING &#183; LEARNING &#183; BREAKING &#183; FIXING</text>
+  </g>
+  <g fill="none" stroke="#E5CDBC" stroke-width="2" stroke-linecap="round">
+    <circle cx="766" cy="25" r="3"/><circle cx="782" cy="25" r="3"/><path d="M771 35h6"/>
+  </g>
+  <path d="M793 17c-2 3-3 5-3 7a3 3 0 0 0 6 0c0-2-1-4-3-7Z" fill="#6FAFCE"/>
+</svg>
